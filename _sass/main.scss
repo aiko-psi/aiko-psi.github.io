@@ -8,7 +8,7 @@
 }
 
 body{
-  background-color: rgba(239,239,239,.57);
+  background-color: rgba(236,231,228,225);
   margin: 0px;
 }
 
@@ -42,4 +42,14 @@ body{
 .nav-pic{
   width: 60px;
   margin-left: 20px;
+}
+
+.banner-container{
+  background-color: rgba(236,231,228,225);
+  display: flex;
+  justify-content: center;
+}
+
+.banner-pic{
+  width: 100%;
 }
