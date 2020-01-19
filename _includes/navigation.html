@@ -1,7 +1,17 @@
-<nav>
-    {% for item in site.data.navigation %}
-        <a href="{{item.link}}" {% if page.url == item.link %} class="current" {% endif %}>
+<div class="nav-container">
+    <div class="nav-pic">
+        <img src="/assets/images/dynamic_port_klein.svg" height="50px">
+    </div>
+    <nav class="navbar">
+        {% for item in site.data.navigation %}
+        <a href="{{item.link}}"  class="nav-button"
+           {% if page.url == item.link %}
+           style="background-color: rgba(33,120,33,255);"
+           {% else %}
+           style="background-color: transparent;"
+           {% endif %}>
             {{item.name}}
         </a>
-    {% endfor %}
-</nav>
+        {% endfor %}
+    </nav>
+</div>

@@ -1,3 +1,45 @@
-.current {
-  color: green;
+
+.nav-button{
+  color: #fdfdfd;
+  font-size: 1.2em;
+  text-decoration: none;
+  align-self: stretch;
+  padding: 15px 30px;
+}
+
+body{
+  background-color: rgba(239,239,239,.57);
+  margin: 0px;
+}
+
+.container{
+  display: flex;
+}
+
+.content{
+  flex-grow: 1;
+  margin: 25px 20px 20px 20px;
+  padding: 1em 3em;
+  background-color: #fdfdfd;
+  border:  #e6e6e6 solid 1px;
+  box-shadow: 5px 2px 2px  #e6e6e6;
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  width: 100%;
+}
+
+.nav-container{
+  background-color: rgba(33,120,33,.90);
+  height: 50px;
+  width: 100%;
+  display: flex;
+}
+
+.nav-pic{
+  width: 60px;
+  margin-left: 20px;
 }
