@@ -8,21 +8,24 @@
 }
 
 body{
-  background-color: rgba(236,231,228,225);
+  background-color: white;
   margin: 0px;
 }
 
 .container{
   display: flex;
+  justify-content: center;
+
 }
 
 .content{
   flex-grow: 1;
   margin: 25px 20px 20px 20px;
   padding: 1em 3em;
-  background-color: #fdfdfd;
-  border:  #e6e6e6 solid 1px;
-  box-shadow: 5px 2px 2px  #e6e6e6;
+  background-color: white;
+  max-width: 700px;
+  font-family: robotolight;
+  font-size: 25px;
 }
 
 .navbar{
@@ -44,12 +47,23 @@ body{
   margin-left: 20px;
 }
 
+.nav-pic > img {
+  box-sizing: border-box;
+  padding: 4px;
+}
+
 .banner-container{
-  background-color: rgba(236,231,228,225);
+  background-color: white;
   display: flex;
   justify-content: center;
 }
 
 .banner-pic{
   width: 100%;
+  padding: 50px 0;
+}
+
+h1 {
+  font-family: exothin;
+  font-size: 50px;
 }
