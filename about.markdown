@@ -14,9 +14,9 @@ können sich bei mir melden. Ich kann dann das Interesse besser abschätzen und 
 
 ## Anfahrt 
 
-Die Treffen finden in den Räumen des [Flipdot Hackerspace Kassel e.V.](www.flipdot.org) statt. Diese sind hinter dem Hauptbahnhof. 
+Die Treffen finden in den Räumen des [flipdot e.V.](https://flipdot.org/) statt. Diese sind hinter dem Hauptbahnhof. 
 Es bietet sich an, Gleis 1 bis zum Ende durchzulaufen um danach links über einen Parkplatz in den Innenhof zu gelangen. 
-Eine Wegbeschreibung findet sich auch [hier](www.flipdot.org/wiki/Kontakt).
+Eine Wegbeschreibung findet sich auch [flipdot e.V.](https://flipdot.org//wiki/Kontakt).
 Personen, die den Space nicht finden können uns unter +49 561 47395848 im Spcae erreichen. 
 Wir kommen dann raus und finden euch.
 
