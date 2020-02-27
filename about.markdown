@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 # Kontakt
 
-Wenn es Frgen zu den Projekt gibt, schreibt mir gerne eine Mail unter aiko(et)flipdot.org
+Wenn es Fragen zu den Projekt gibt, schreibt mir gerne eine Mail unter aiko(et)flipdot.org
 
 Ich freue mich auch darüber, interessierte Personen die zur Zielgruppe gehören aber beim ersten Treffen nicht dabei sein
 können sich bei mir melden. Ich kann dann das Interesse besser abschätzen und euch vor dem nächsten Termin nochmal eine Mail schreiben.
