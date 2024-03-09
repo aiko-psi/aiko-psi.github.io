@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 # Kontakt
 
-Wenn es Fragen zu den Projekt gibt, schreibt mir gerne eine Mail unter aiko(et)flipdot.org
+Wenn es Fragen zu den Projekt gibt, schreibt uns gern eine Mail unter com[ät]flipdot.org mit dem Betreff Dynamic Port.
 
 Ich freue mich auch darüber, interessierte Personen die zur Zielgruppe gehören aber beim ersten Treffen nicht dabei sein
 können sich bei mir melden. Ich kann dann das Interesse besser abschätzen und euch vor dem nächsten Termin nochmal eine Mail schreiben.
@@ -14,8 +14,5 @@ können sich bei mir melden. Ich kann dann das Interesse besser abschätzen und 
 
 ## Anfahrt 
 
-Die Treffen finden in den Räumen des [flipdot e.V.](https://flipdot.org/) statt. Diese sind hinter dem Hauptbahnhof. 
-Es bietet sich an, Gleis 1 bis zum Ende durchzulaufen um danach links über einen Parkplatz in den Innenhof zu gelangen. 
+Die Treffen finden in den Räumen des [flipdot e.V.](https://flipdot.org/) statt. Diese sind in der Nähe des Lutherplatz.
 Eine Wegbeschreibung findet sich auch [hier](https://flipdot.org//wiki/Kontakt).
-Personen, die den Space nicht finden können uns unter +49 561 47395848 im Space erreichen. 
-Wir kommen dann raus und finden euch.
