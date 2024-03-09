@@ -15,4 +15,4 @@ können sich bei mir melden. Ich kann dann das Interesse besser abschätzen und 
 ## Anfahrt 
 
 Die Treffen finden in den Räumen des [flipdot e.V.](https://flipdot.org/) statt. Diese sind in der Nähe des Lutherplatz.
-Eine Wegbeschreibung findet sich auch [hier](https://flipdot.org//wiki/Kontakt).
+Eine Wegbeschreibung findet sich auch [hier](https://flipdot.org/kontakt/).
